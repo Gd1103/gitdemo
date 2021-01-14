@@ -1,1 +1,4 @@
 This is just an example of textfile.
+This is feature 1
+This is faeture 2
+
