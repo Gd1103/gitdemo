@@ -1,8 +1,9 @@
 This is just an example of textfile.
+<<<<<<< HEAD
 
-
-This is a feat
+This is a feature1.
+=======
 This is feature 1
 This is faeture 2
 
-
+>>>>>>> f2
